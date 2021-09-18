@@ -14,7 +14,7 @@ int main(){
 			printf("%d", peri);			
 		}
 		else if (peri == area){
-			printf("Eq");
+			printf("Eq\n%d\n", peri);
 		}
 	return 0;
 }
